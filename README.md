@@ -1,6 +1,6 @@
 # online_store_with_clean_architecture
 
-A new Flutter project.
+It's a demo project to show how I use clean architecture in my code
 
 ## Getting Started
 
